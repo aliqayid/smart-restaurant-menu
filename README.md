@@ -21,10 +21,9 @@ This project presents a smart restaurant concept using two key components:
 ---
 
 📸 **Preview**
-> *(Optional: Include screenshots from the presentation or Excel file)*
 
-![Sample Slide](images/sample-slide.png)  
-![Excel Menu](images/excel-menu-preview.png)
+![Sample Slide](images/Restaurant-Menu-ppt.png)  
+![Excel Menu](images/Restaurant-Menu-excel.png)
 
 ---
 
