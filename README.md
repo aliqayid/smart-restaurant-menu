@@ -26,7 +26,7 @@ This project presents a smart restaurant concept using two key components:
 📸 **Preview**
 
 ![Sample Slide](images/Restaurant-Menu-ppt.png) 
-![Sample Slide](Hungerstation.png) 
+![Sample Slide](images/Hungerstation.png) 
 ![Excel Menu](images/Restaurant-Menu-excel.png)
 
 ---
