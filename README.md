@@ -17,7 +17,7 @@ This project presents a smart restaurant concept using two key components:
 🛠️ **Tools Used**
 - Microsoft PowerPoint
 - [PowerPoint Menu ](Restaurant-Menu.pptx)
-- [PowerPoint Menu ](Hungerstation.pptx)
+- [PowerPoint Ad ](Hungerstation.pptx)
 - Microsoft Excel (with formulas, conditional formatting, and images)
 - [Excel Menu ](Restaurant-Menu.xlsm)
 
